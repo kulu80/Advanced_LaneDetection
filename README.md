@@ -81,5 +81,7 @@ Perspective transform is performed on undistorted binary images. The follwoing i
  #### Search pixel around detected pixel and fit ploynomial 
  ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/withoutsliding%20and%20ployfit.png)
  
- 
+###  Lane curvature and warp detected lane boundaries to the original image 
+ Finally the curvature of the lane and vehicle position with respect to center is determined. And warp the detected lane boundaries back onto the original image with lane boundaries and lane curvature and vehicle position displayed. 
 
+![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/drawback_to_realimage.png)
