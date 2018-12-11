@@ -64,4 +64,11 @@ I have applied different kinds of transromation on the raw images, the python co
 ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/combined_hlsand_soblex.png)
 
 
+### Apply a perspective transform to rectify binary image ("birds-eye view")
+
+Perspective transform is performed on undistorted binary images. The follwoing is one example. Full list of images and scripts are included in the juoyter notebook attached above. 
+
+![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/combined_hls_soblex%2Bpersp.png)
+ perspective transform applied on combined thresholded binary image
+ 
 
