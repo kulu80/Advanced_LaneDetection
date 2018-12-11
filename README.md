@@ -41,10 +41,12 @@ I have applied different kinds of transromation on the raw images, the python co
 ![alt text ](https://github.com/kulu80/Advanced_LaneDetection/blob/master/sobel-x_trans.png)
 
 ### Magnitude thresholding
-![atl text] (https://github.com/kulu80/Advanced_LaneDetection/blob/master/threshold_maginitue.png)
+![atl text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/threshold_maginitue.png)
 
 ### Direction thresholding
-![atl text] (https://github.com/kulu80/Advanced_LaneDetection/blob/master/theshold_dir.png)
+
+![atl text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/theshold_dir.png)
+
 ### Color thresholding 
 ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/hls_threshold_R.png)
 
@@ -55,7 +57,7 @@ I have applied different kinds of transromation on the raw images, the python co
 ### HLS thresholding
 
 ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/hls_real_threshold_S.png)
-![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/hls_real_threshold_S2.png)
+
 
 ### Combined thresholding
 
