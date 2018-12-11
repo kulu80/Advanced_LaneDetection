@@ -34,6 +34,8 @@ Camera calibration matrix and distortion coefficients are computed using the cha
 All list of undistorted chessboard images are given the jupyter notebook above (https://github.com/kulu80/Advanced_LaneDetection/blob/master/Advanced_Lane_Detection_P2.ipynb)
 
 
+In addistion to applying undistort for chessboard images, undistortion is also applied for the raw images provided in the project. Below is undistored raw image.
 
+![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/undist_reall.png)
 
 
