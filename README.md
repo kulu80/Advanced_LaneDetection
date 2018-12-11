@@ -69,6 +69,17 @@ I have applied different kinds of transromation on the raw images, the python co
 Perspective transform is performed on undistorted binary images. The follwoing is one example. Full list of images and scripts are included in the juoyter notebook attached above. 
 
 ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/combined_hls_soblex%2Bpersp.png)
- perspective transform applied on combined thresholded binary image
+ **perspective transform applied on combined thresholded binary image**
+ 
+ ### Detect lane pixels and fit to find the lane boundary
+ 
+ Lane pixel detection is perfromed using sliding window and with out using sliding winds by seaching around pixels already found or detecting using sliding winds (please the jupyter note book for detail). After the lane pixels have been identified a polynomial fit is apply on the detected pixels. The following images are the results of this processes. 
+ 
+ #### Sliding windows and fit polynomial
+ ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/slidingandpolyfit.png)
+ 
+ #### Search pixel around detected pixel and fit ploynomial 
+ ![alt text](https://github.com/kulu80/Advanced_LaneDetection/blob/master/withoutsliding%20and%20ployfit.png)
+ 
  
 
