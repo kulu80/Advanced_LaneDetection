@@ -1,5 +1,5 @@
 ## Advanced Lane Finding
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+[![Udacity - Self-Driving Car NanoDegree](https://github.com/kulu80/Advanced_LaneDetection/blob/master/combined_hls_soblex%2Bpersp.png)
 
 
 
